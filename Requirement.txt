@@ -1,0 +1,18 @@
+# Core data processing
+pandas>=1.0
+numpy>=1.18
+
+# Visualization
+matplotlib>=3.2
+seaborn>=0.10
+plotly>=4.5
+
+# Forecasting models
+prophet>=1.0
+statsmodels>=0.11
+
+# Machine learning utilities
+scikit-learn>=0.23
+
+# Additional dependencies
+jupyter>=1.0  # For running in notebook environment
